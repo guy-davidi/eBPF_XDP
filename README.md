@@ -7,7 +7,7 @@ This eBPF program limits the number of incoming SYN packets from the same client
 1. Clone the repository:
 
 ```
-   git clone https://github.com/your-username/ebpf-syn-limiter.git
+   git clone https://github.com/guy-davidi/eBPF_XDP.git
 ```
 1. Compile the eBPF program:
 
